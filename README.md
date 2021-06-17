@@ -14,6 +14,7 @@ Mine - A simple strip mining program (Customizable by typing edit Mine in the te
 Return - Returns each Turtle in the WTA to a specified position (Turtles will not compact themselves and will stack on top of each other)
 
 The "Stop All" button on the Main Control's GUI will immediately cease all running commands on any Turtle in the WTA
+
 The "Boot All" button on the Main Control's GUI will connect each Turtle in the WTA to the Main Control (Generally only used during the first setup)
 
 Commands can be run through a Pocket Computer as long as the Pocket computer has a Modem (Ender Modem for infinite range)
