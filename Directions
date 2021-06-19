@@ -1,0 +1,10 @@
+To broadcast to all Turtles simply go into lua mode by typing lua into the command line on a pc/pocket pc
+
+Make sure your pc/pocket pc has a modem connected to it and type rednet.open("whatever side the modem is on")
+
+Now if you have put the startup file on your Turtles you can go to each one and type reboot
+
+All your devices are now connected and ready to broadcast/receive
+Go to your pc/pocket pc and if you aren't already go to lua mode (see above for directions)
+
+
